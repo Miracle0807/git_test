@@ -14,6 +14,7 @@ public class First {
         System.out.println("¸ßÔó");
         System.out.println("¸ßÔó");
         test();
+        //¹ş¹ş¹ş
     }
 
     public static Integer test() {
