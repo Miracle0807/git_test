@@ -13,5 +13,12 @@ public class First {
         System.out.println("∏ﬂ‘Û");
         System.out.println("∏ﬂ‘Û");
         System.out.println("∏ﬂ‘Û");
+        test();
+    }
+
+    public static Integer test() {
+        int i = 10;
+        i += 9;
+        return i;
     }
 }
